@@ -6,8 +6,8 @@ This project covers the design, simulation, and experimental verification of a D
 The Buck Converter is designed to step down a higher input DC voltage to a lower regulated output DC voltage. This project includes theoretical component sizing, circuit schematic design, and experimental performance validation.
 
 ## 🛠 Circuit Specifications
-* **Input Voltage:** [Raporundan değerleri ekle, örn: 12V]
-* **Output Voltage:** [Raporundan değerleri ekle, örn: 5V]
+* **Input Voltage:** 5V
+* **Output Voltage:** 3.3V
 * **Key Components:** MOSFET/IGBT, Inductor (L), Capacitor (C), Diode, PWM Controller (SG3525/Arduino/etc.)
 
 ## 🚀 Experimental Validation
